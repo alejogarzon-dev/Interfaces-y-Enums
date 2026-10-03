@@ -1,0 +1,6 @@
+# Archivos compilados
+**/out/
+*.class
+
+# Carpetas temporales
+contenido_pdf.txt
